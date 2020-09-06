@@ -1,2 +1,4 @@
-# cdn
-jsDeliver cdn
+# Storage
+
+Picture
+CSS、JS File.
